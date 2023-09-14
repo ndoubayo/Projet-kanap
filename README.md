@@ -1,6 +1,8 @@
 # Kanap #
 
 This is the front end and back end server for Project 5 of the Web Developer path.
+### Home interface
+![kanap](https://github.com/ndoubayo/Projet-kanap/assets/115634872/0c4571b2-f237-45a1-916d-3a95c44db0fe)
 
 ### Back end Prerequisites ###
 
